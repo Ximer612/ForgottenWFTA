@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_s_dialogue.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unreal engine\\biggestone3.0\\intermediate\\build\\win64\\x64\\biggestone3\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\simplenarrativesystem\\definitions.simplenarrativesystem.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\source\\simplenarrativesystem\\public\\structs\\sns_s_dialogue.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\source\\simplenarrativesystem\\public\\structs\\sns_s_timestamp.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\source\\simplenarrativesystem\\public\\sns_datatablerowhandle.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_datatablerowhandle.generated.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_s_timestamp.generated.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplenarrativesystem\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_s_dialogue.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

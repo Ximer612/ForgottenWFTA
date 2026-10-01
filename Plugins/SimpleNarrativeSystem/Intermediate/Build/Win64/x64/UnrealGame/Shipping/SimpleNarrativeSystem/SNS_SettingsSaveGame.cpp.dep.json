@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\source\\simplenarrativesystem\\private\\sns_settingssavegame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unreal engine\\biggestone3.0\\intermediate\\build\\win64\\x64\\biggestone3\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\simplenarrativesystem\\definitions.simplenarrativesystem.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\source\\simplenarrativesystem\\public\\sns_settingssavegame.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\source\\simplenarrativesystem\\public\\structs\\sns_s_settingsdata.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_s_settingsdata.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\savegame.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\savegame.generated.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_settingssavegame.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_narrativeblueprintfunclib.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unreal engine\\biggestone3.0\\intermediate\\build\\win64\\x64\\biggestone3\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\x64\\unrealgame\\development\\simplenarrativesystem\\definitions.simplenarrativesystem.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\source\\simplenarrativesystem\\public\\sns_narrativeblueprintfunclib.h",
+            "c:\\projects\\unreal engine\\biggestone3.0\\plugins\\simplena715590f4a3b8v1\\intermediate\\build\\win64\\unrealgame\\inc\\simplenarrativesystem\\uht\\sns_narrativeblueprintfunclib.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
