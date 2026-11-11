@@ -1,12 +1,12 @@
-"C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\UnrealGame\Inc\SimpleNarrativeSystem\UHT\SNS_Manager.gen.cpp"
-/FI"C:\Projects\Unreal Engine\BiggestOne3.0\Intermediate\Build\Win64\x64\BiggestOne3\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/FI"C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\Definitions.SimpleNarrativeSystem.h"
-/Yu"C:\Projects\Unreal Engine\BiggestOne3.0\Intermediate\Build\Win64\x64\BiggestOne3\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/Fp"C:\Projects\Unreal Engine\BiggestOne3.0\Intermediate\Build\Win64\x64\BiggestOne3\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.obj"
-/experimental:log "C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.sarif"
-/sourceDependencies "C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.dep.json"
-@"C:\Projects\Unreal Engine\BiggestOne3.0\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SimpleNarrativeSystem.Shared.rsp"
+"C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\UnrealGame\Inc\SimpleNarrativeSystem\UHT\SNS_Manager.gen.cpp"
+/FI"C:\Projects\Unreal Engine\ForgottenWFTA\Intermediate\Build\Win64\x64\ForgottenWFTA\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/FI"C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\Definitions.SimpleNarrativeSystem.h"
+/Yu"C:\Projects\Unreal Engine\ForgottenWFTA\Intermediate\Build\Win64\x64\ForgottenWFTA\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/Fp"C:\Projects\Unreal Engine\ForgottenWFTA\Intermediate\Build\Win64\x64\ForgottenWFTA\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.obj"
+/experimental:log "C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.sarif"
+/sourceDependencies "C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SNS_Manager.gen.cpp.dep.json"
+@"C:\Projects\Unreal Engine\ForgottenWFTA\Plugins\SimpleNarrativeSystem\Intermediate\Build\Win64\x64\UnrealGame\Shipping\SimpleNarrativeSystem\SimpleNarrativeSystem.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
